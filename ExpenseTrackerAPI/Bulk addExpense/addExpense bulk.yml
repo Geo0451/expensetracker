@@ -1,0 +1,15 @@
+info:
+  name: addExpense bulk
+  type: http
+  seq: 3
+
+http:
+  method: post
+  url: ""
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+​

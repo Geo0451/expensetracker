@@ -1,0 +1,6 @@
+info:
+  name: Bulk addExpense
+  type: folder
+  seq: 1
+
+request: {}
